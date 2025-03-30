@@ -1,1 +1,1 @@
-The complete code will be uploaded after the paper is accepted. Ding Y, Kang W, Yang A, et al. Adaptive Homophily Clustering: Structure Homophily Graph Learning with Adaptive Filter for Hyperspectral Image[J]. arxiv preprint arxiv:2501.01595, 2025.
+Ding Y, Kang W, Yang A, et al. Adaptive Homophily Clustering: A Structure Homophily Graph Learning with Adaptive Filter for Hyperspectral Image[J]. IEEE Transactions on Geoscience and Remote Sensing, 2025.（doi:10.1109/TGRS.2025.3556276）If you use this code, please quote the paper.
